@@ -1,19 +1,25 @@
 # Algo`s included:
-1. Decision Tree
-2. SVM
+1. Entropy
+2. Decision Tree
+3. SVM
 
-# 1A) Decision Tree - Code:
+# 1A) Entropy - Code:
+
+
+# 1B) Entropy - Samples:
+![](samples/Entropy.png)
+
+# 2A) Decision Tree - Code:
 https://github.com/trajceskijovan/Data-Science-in-R/blob/main/R3_Tree.R
 
-# 1B) Decision Tree - Samples:
+# 2B) Decision Tree - Samples:
 ![](samples/Tree1.png)
 ![](samples/Tree2.png)
 
-
-# 2A) SVM - Code:
+# 3A) SVM - Code:
 https://github.com/trajceskijovan/Data-Science-in-R/blob/main/2_SVM.R
 
-# 2B) SVM - Samples:
+# 3B) SVM - Samples:
 ![](samples/SVM1.png)
 ![](samples/SVM2.png)
 ![](samples/SVM3.png)
