@@ -2,6 +2,7 @@
 1. Entropy
 2. Decision Tree
 3. SVM
+4. Kmeans
 
 
 # 1A) Entropy - Code:
@@ -27,3 +28,14 @@ https://github.com/trajceskijovan/Data-Science-in-R/blob/main/2_SVM.R
 ![](samples/SVM2.png)
 ![](samples/SVM3.png)
 ![](samples/SVM4.png)
+
+
+# 4A) Kmeans - Code:
+https://github.com/trajceskijovan/Data-Science-in-R/blob/main/2_SVM.R
+
+# 4B) Kmeans - Samples:
+![](samples/Kmeans1.png)
+![](samples/Kmeans2.png)
+![](samples/Kmeans3.png)
+
+
