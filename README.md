@@ -3,11 +3,13 @@
 2. Decision Tree
 3. SVM
 
-# 1A) Entropy - Code:
 
+# 1A) Entropy - Code:
+https://github.com/trajceskijovan/Data-Science-in-R/blob/main/0_Entropy.R
 
 # 1B) Entropy - Samples:
 ![](samples/Entropy.png)
+
 
 # 2A) Decision Tree - Code:
 https://github.com/trajceskijovan/Data-Science-in-R/blob/main/R3_Tree.R
@@ -15,6 +17,7 @@ https://github.com/trajceskijovan/Data-Science-in-R/blob/main/R3_Tree.R
 # 2B) Decision Tree - Samples:
 ![](samples/Tree1.png)
 ![](samples/Tree2.png)
+
 
 # 3A) SVM - Code:
 https://github.com/trajceskijovan/Data-Science-in-R/blob/main/2_SVM.R
