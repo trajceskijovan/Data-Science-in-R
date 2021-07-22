@@ -1,3 +1,7 @@
+# Algo`s included:
+1. Decision Tree
+2. SVM
+
 # 1A) Decision Tree - Code:
 https://github.com/trajceskijovan/Data-Science-in-R/blob/main/R3_Tree.R
 
