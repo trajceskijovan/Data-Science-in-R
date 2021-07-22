@@ -5,6 +5,7 @@
 4. Kmeans
 5. KNN
 6. Trading - quantmod
+7. Curves - ROC
 
 
 # 1A) Entropy - Code:
@@ -46,6 +47,18 @@ https://github.com/trajceskijovan/Data-Science-in-R/blob/main/5_Trading.R
 
 # 6B) Trading - Samples:
 ![](samples/Trading.png)
+
+
+# 7A) ROC - Code:
+https://github.com/trajceskijovan/Data-Science-in-R/blob/main/6_Curves.R
+
+# 7B) ROC - Samples:
+![](samples/Curves1.png)
+![](samples/Curves2.png)
+![](samples/Curves3.png)
+![](samples/Curves4.png)
+
+
 
 
 
