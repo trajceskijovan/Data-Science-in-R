@@ -6,6 +6,7 @@
 5. KNN
 6. Trading - quantmod
 7. Curves - ROC
+8. NB
 
 
 # 1A) Entropy - Code:
