@@ -1,4 +1,4 @@
-# Decision Tree in R
+Decision Tree in R
 
 # Decision Tree Code:
 https://github.com/trajceskijovan/Data-Science-in-R/blob/main/R3_Tree.R
