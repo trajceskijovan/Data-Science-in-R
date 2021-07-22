@@ -31,7 +31,7 @@ https://github.com/trajceskijovan/Data-Science-in-R/blob/main/2_SVM.R
 
 
 # 4A) Kmeans - Code:
-https://github.com/trajceskijovan/Data-Science-in-R/blob/main/2_SVM.R
+https://github.com/trajceskijovan/Data-Science-in-R/blob/main/3_kmeans.R
 
 # 4B) Kmeans - Samples:
 ![](samples/Kmeans1.png)
