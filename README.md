@@ -4,6 +4,7 @@
 3. SVM
 4. Kmeans
 5. KNN
+6. Trading - quantmod
 
 
 # 1A) Entropy - Code:
@@ -14,7 +15,7 @@ https://github.com/trajceskijovan/Data-Science-in-R/blob/main/0_Entropy.R
 
 
 # 2A) Decision Tree - Code:
-https://github.com/trajceskijovan/Data-Science-in-R/blob/main/R3_Tree.R
+https://github.com/trajceskijovan/Data-Science-in-R/blob/main/1_Tree.R
 
 # 2B) Decision Tree - Samples:
 ![](samples/Tree1.png)
@@ -38,5 +39,13 @@ https://github.com/trajceskijovan/Data-Science-in-R/blob/main/3_kmeans.R
 ![](samples/Kmeans1.png)
 ![](samples/Kmeans2.png)
 ![](samples/Kmeans3.png)
+
+
+# 6A) Trading - Code:
+https://github.com/trajceskijovan/Data-Science-in-R/blob/main/3.R
+
+# 4B) Trading - Samples:
+![](samples/Trading.png)
+
 
 
