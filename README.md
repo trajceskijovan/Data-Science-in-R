@@ -7,7 +7,7 @@ https://github.com/trajceskijovan/Data-Science-in-R/blob/main/R3_Tree.R
 
 
 # 2A) SVM - Code:
-https://github.com/trajceskijovan/Data-Science-in-R/blob/main/R3_Tree.R
+https://github.com/trajceskijovan/Data-Science-in-R/blob/main/2_SVM.R
 
 # 2B) SVM - Samples:
 ![](samples/SVM1.png)
