@@ -3,6 +3,7 @@
 2. Decision Tree
 3. SVM
 4. Kmeans
+5. KNN
 
 
 # 1A) Entropy - Code:
