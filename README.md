@@ -42,7 +42,7 @@ https://github.com/trajceskijovan/Data-Science-in-R/blob/main/3_kmeans.R
 
 
 # 6A) Trading - Code:
-https://github.com/trajceskijovan/Data-Science-in-R/blob/main/3.R
+https://github.com/trajceskijovan/Data-Science-in-R/blob/main/5_Trading.R
 
 # 4B) Trading - Samples:
 ![](samples/Trading.png)
