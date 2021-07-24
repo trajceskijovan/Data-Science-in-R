@@ -1,4 +1,4 @@
-# Algo`s included:
+# Topics included:
 1. Entropy
 2. Decision Tree
 3. SVM
